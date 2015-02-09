@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,aAAc;EACZ,QAAQ,EAAE,QAAQ;EAClB,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;;AAEd,MAAO;EACL,OAAO,EAAE,GAAG",
+"sources": ["../src/backnode/App.scss"],
+"names": [],
+"file": "backnode.css"
+}
